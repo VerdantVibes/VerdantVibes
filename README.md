@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @VerdantVibes
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m professional in Python
+- 🌱 I’m currently learning Blockchain Tech.
+- 💞️ I’m looking to collaborate with many developers.
+- 📫 How to reach me by email.
+- 😄 Pronouns: I can be ideal dev you are looking for.
+- ⚡ Fun fact: I am not young just like this.
 
 <!---
 VerdantVibes/VerdantVibes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
