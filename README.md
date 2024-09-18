@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VerdantVibes
 - 👀 I’m professional in Python
 - 🌱 I’m currently learning Blockchain Tech.
-- 💞️ I’m looking to collaborate with many developers.
+- 💞️ I’m going to collaborate with many developers.
 - 📫 How to reach me by email.
 - 😄 Pronouns: I can be ideal dev you are looking for.
 - ⚡ Fun fact: I am not young just like this.
