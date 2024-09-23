@@ -2,10 +2,6 @@
 
 👋 Hi, I’m **@VerdantVibes** and welcome to my GitHub profile!  
 
-<p align="center">  
-  <img src="https://user-images.githubusercontent.com/your-image.png" alt="VerdantVibes Avatar">  
-</p>  
-
 ---  
 
 ## 👀 About Me  
@@ -27,7 +23,7 @@ I'm enthusiastic about collaborating with other developers and tech enthusiasts.
 
 ## 📫 Get in Touch  
 
-You can reach me via email at **verdantvibes@gmail.com**. Always open to discussing new ideas, projects, and opportunities to collaborate.  
+You can reach me via email. Always open to discussing new ideas, projects, and opportunities to collaborate.  
 
 ## 😄 Pronouns  
 
@@ -43,10 +39,6 @@ You can click the Preview link to take a look at your changes.
 ---># 🌿 Verdant Vibes  
 
 👋 Hi, I’m **@VerdantVibes** and welcome to my GitHub profile!  
-
-<p align="center">  
-  <img src="https://user-images.githubusercontent.com/your-image.png" alt="VerdantVibes Avatar">  
-</p>  
 
 ---  
 
