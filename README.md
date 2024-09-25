@@ -5,8 +5,8 @@
 ---  
 
 ## 👀 About Me  
-- Professional Python Developer  
-- Expertise: Web Scraping, AI (ML, Image Processing)  
+- Professional Python Developer
+- Expertise: Database Administration, Web Scraping, AI (ML, Image Processing)  
 - Exploring: Blockchain Technology  
 
 ## 🌱 Learning  
@@ -14,9 +14,6 @@
 
 ## 💞️ Let's Collaborate  
 - Open to projects and collaborations with other developers.  
-
-## 📫 Contact  
-- **Email**: contact with me  
 
 ## 😄 Pronouns  
 - The ideal dev you’re looking for!  
