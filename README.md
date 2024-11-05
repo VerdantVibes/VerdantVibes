@@ -19,7 +19,9 @@
 - The ideal dev you’re looking for!  
 
 ## ⚡ Fun Fact  
-- Not as young as I may seem!  
+- Not as young as I may seem!
+
+![Puppeteer](https://img.shields.io/badge/Package-Puppeteer-orange?&style=flat&logo=kotlin&logoColor=white)&nbsp;
 
 <!---  
 VerdantVibes/VerdantVibes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
