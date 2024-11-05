@@ -21,13 +21,14 @@
 ## ⚡ Fun Fact  
 - Not as young as I may seem!
 
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white&style=flat)&nbsp;
 ![Python](https://img.shields.io/badge/Language-Python-blue?&style=flat&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![OpenAI](https://img.shields.io/badge/Platform-OpenAI-lightgrey?&style=flat&logo=openai&logoColor=white)&nbsp;
 ![GPT](https://img.shields.io/badge/Model-GPT-lightgrey?&style=flat&logo=openai&logoColor=white)&nbsp;
 ![LLM](https://img.shields.io/badge/Model-LLM-lightgrey)&nbsp;
 ![Generative AI](https://img.shields.io/badge/Tech-Generative%20AI-lightgrey)&nbsp;
-![Selenium](https://img.shields.io/badge/Tool-Selenium-green?&style=flat&logo=selenium&logoColor=white)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white&style=flat)&nbsp;
 ![Beautiful Soup](https://img.shields.io/badge/Library-Beautiful%20Soup-green?&style=flat)&nbsp;
 ![Puppeteer](https://img.shields.io/badge/Tool-Puppeteer-orange?&style=flat&logo=puppeteer&logoColor=white)&nbsp;
 ![Pyppeteer](https://img.shields.io/badge/Library-Pyppeteer-orange?&style=flat)&nbsp;
