@@ -53,7 +53,7 @@
 
 <p align="center">
 	<a href="https://github.com/VerdantVibes">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=VerdantVibes&rank=SSS,SS,S,AAA,AA,A&theme=dracula" />
+		<img align="center" src="https://github-profile-trophy.vercel.app/?username=mastercodercat&rank=SSS,SS,S,AAA,AA,A&theme=dracula" />
 	</a>
 </p>
 <!---
