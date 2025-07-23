@@ -137,12 +137,6 @@
 
 ### 📊 Github Stats
 
-<div style="display:flex; gap:4px; justify-content:center; align-items:center">
-
-![VerdantVibes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VerdantVibes&theme=highcontrast&hide_border=true) ![VerdantVibes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VerdantVibes&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-
-</div>
-
 <p align="center">
 	<a href="https://github.com/VerdantVibes">
 		<img align="center" src="https://github-profile-trophy.vercel.app/?username=mastercodercat&rank=SSS,SS,S,AAA,AA,A&theme=dracula" />
